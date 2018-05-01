@@ -41,7 +41,7 @@
 #include <boost/foreach.hpp>
 
 #include <ecto/ecto.hpp>
-#include <opencv2/core/core.hpp>
+#include <opencv2/core.hpp>
 
 // ROS includes
 #include <sensor_msgs/Image.h>

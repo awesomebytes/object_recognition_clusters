@@ -3,7 +3,7 @@ project(object_recognition_clusters)
 
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs object_recognition_msgs roscpp
-  rospy tf ecto ecto_ros pcl_ros
+  rospy tf ecto ecto_ros pcl_ros cv_bridge
 )
 
 catkin_python_setup()
